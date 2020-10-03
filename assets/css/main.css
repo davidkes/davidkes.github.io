@@ -2580,14 +2580,14 @@ input, select, textarea {
 	float: left;
 	margin: 0;
 }
-.education-block h4 {
-	float: left;
-	margin: 0;
-}
+	.education-block h4 {
+		float: left;
+		margin: 0;
+	}
 
-.education-block span {
-	float: right
-}
+	.education-block span {
+		float: right
+	}
 
 /* Header */
 
@@ -3045,7 +3045,7 @@ input, select, textarea {
 			#main {
 				margin-left: 30%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 3em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
 
