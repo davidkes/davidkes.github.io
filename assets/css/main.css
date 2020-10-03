@@ -2574,6 +2574,9 @@ input, select, textarea {
 
 
 /* Education */
+.education-block{
+	text-align: left
+}
 
 .education-block h3 {
 	font-weight: 500;
