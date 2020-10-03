@@ -290,6 +290,26 @@ input, select, textarea {
 
 		}
 
+
+/* Education */
+.row education-block{
+	text-align: left
+}
+
+.row education-block h3 {
+	/*font-weight: 500;*/
+	/*float: left;*/
+	margin: 0;
+}
+	.row education-block h4 {
+		/*float: left;*/
+		margin: 0;
+	}
+
+	.row education-block span {
+		float: right
+	}
+
 /* Row */
 
 	.row {
@@ -2573,24 +2593,7 @@ input, select, textarea {
 		}
 
 
-/* Education */
-.education-block{
-	text-align: left
-}
 
-.education-block h3 {
-	font-weight: 500;
-	float: left;
-	margin: 0;
-}
-	.education-block h4 {
-		float: left;
-		margin: 0;
-	}
-
-	.education-block span {
-		float: right
-	}
 
 /* Header */
 
